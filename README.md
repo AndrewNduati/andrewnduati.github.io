@@ -1,3 +1,3 @@
-#Andrew Nduati Njage
+This is my old attempt at building a portfolio site. 
 
-#email me on :nduati.andrew@gmail.com
+## BRB!
